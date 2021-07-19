@@ -1,0 +1,30 @@
+FieldName	DistinctOnly	Cardinal	TotalCount	PossibleCount	HasInfo	IsLocked	AlwaysOneSelected	AndMode	Tags
+divisao2dig	0	87	15815	-1	-1	0	0	0	$numeric, $integer
+cd_cnpj	1	10001	0	-1	-1	0	0	0	$numeric, $integer, $key
+cd_ramo_atividade	0	896	15815	-1	-1	0	0	0	$numeric, $integer
+de_ramo_atividade	0	903	15815	-1	-1	0	0	0	$ascii, $text
+Ramo de Atividade	0	26	15815	-1	-1	0	0	0	$text
+Divisões	0	87	15815	-1	-1	0	0	0	$text
+nu_ordem	0	5	18124	-1	-1	0	0	0	$numeric, $integer
+fl_matriz	0	2	18124	-1	-1	0	0	0	$numeric, $integer
+dt_abertura	0	5313	18124	-1	-1	0	0	0	
+nm_razao_social	0	9933	18124	-1	-1	0	0	0	$ascii, $text
+cd_natureza_juridica	0	38	18124	-1	-1	0	0	0	$numeric, $integer
+de_natureza_juridica	0	38	18124	-1	-1	0	0	0	$ascii, $text
+nm_logradouro	0	7809	10001	-1	-1	0	0	0	$ascii, $text
+nu_logradouro	0	2306	10001	-1	-1	0	0	0	
+cd_cep	0	8072	10001	-1	-1	0	0	0	
+nm_bairro	0	4014	10001	-1	-1	0	0	0	$ascii, $text
+nm_municipio	0	2257	10001	-1	-1	0	0	0	$ascii, $text
+sg_uf	0	28	10001	-1	-1	0	0	0	$ascii, $text
+vl_latitude	0	9366	10001	-1	-1	0	0	0	
+vl_longitude	0	9368	10001	-1	-1	0	0	0	
+fl_optante_simples	0	3	10001	-1	-1	0	0	0	
+fl_optante_simei	0	3	10001	-1	-1	0	0	0	
+vl_total_veiculos_antt	0	8	10001	-1	-1	0	0	0	
+vl_total_veiculos_leves	0	24	10001	-1	-1	0	0	0	
+vl_total_veiculos_pesados	0	26	10001	-1	-1	0	0	0	
+de_saude_tributaria	0	8	10001	-1	-1	0	0	0	$ascii, $text
+de_nivel_atividade	0	6	10001	-1	-1	0	0	0	$ascii, $text
+de_situacao	0	2	10001	-1	-1	0	0	0	$ascii, $text
+de_classif_natureza_juridica	0	3	10001	-1	-1	0	0	0	$ascii, $text
