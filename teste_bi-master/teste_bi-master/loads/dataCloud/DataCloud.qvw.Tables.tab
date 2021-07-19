@@ -1,0 +1,7 @@
+TableName	Loose	#Records	#Fields	#Keys
+dimensao_atividade	0	15815	6	1
+dimensao_empresas	0	18124	7	1
+dimensao_localizacao	0	10001	9	1
+dimensao_tributos	0	10001	3	1
+dimensao_veiculos	0	10001	4	1
+fato	0	10001	5	1
